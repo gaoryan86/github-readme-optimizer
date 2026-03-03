@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/平台-任意%20AI%20智能体-blue)](#安装)
-[![Works with](https://img.shields.io/badge/适配-Claude%20%7C%20Codex%20%7C%20Gemini%20%7C%20ChatGPT-green)](#使用方式)
+[![Works with](https://img.shields.io/badge/适配-OpenClaw%20%7C%20Claude%20Code%20%7C%20Codex%20%7C%20Antigravity-green)](#使用方式)
 
 [English](./README.md) | 简体中文
 
@@ -114,7 +114,7 @@ curl -O https://raw.githubusercontent.com/gaoryan86/github-readme-optimizer/main
 - `让 AI 找得到：帮我优化这个项目的 README`
 - `优化 README` / `review my GitHub repo`
 
-适配：**Claude、Codex、Gemini、ChatGPT、OpenClaw 及任何读取 SKILL.md 文件的智能体。**
+适配：**OpenClaw、Claude Code、Codex、Antigravity 及任何读取 SKILL.md 文件的智能体。**
 
 ---
 
