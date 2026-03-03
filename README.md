@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-any%20AI%20agent-blue)](#install)
-[![Works with](https://img.shields.io/badge/works%20with-Claude%20%7C%20Codex%20%7C%20Gemini%20%7C%20ChatGPT-green)](#usage)
+[![Works with](https://img.shields.io/badge/works%20with-Claude%20%7C%20Codex%20%7C%20Gemini%20%7C%20ChatGPT%20%7C%20OpenClaw-green)](#usage)
 
 English | [简体中文](./README.zh-CN.md)
 
@@ -114,7 +114,7 @@ Trigger phrases your agent will recognize:
 - `让 AI 找得到：帮我优化这个项目的 README`
 - `优化 README` / `review my GitHub repo`
 
-Works with: **Claude, Codex, Gemini, ChatGPT, OpenClaw, and any agent that reads SKILL.md files.**
+Works with: **OpenClaw, Claude, Codex, Gemini, ChatGPT, and any agent that reads SKILL.md files.**
 
 ---
 
